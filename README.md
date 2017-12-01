@@ -9,6 +9,8 @@ https://pypi.python.org/pypi/heapq_max/0.21
       
 Then check your python 
 
+open your IDE 
+          >>import heaqp 
 
 dijkstra's algorithm python
 
