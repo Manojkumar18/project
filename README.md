@@ -3,9 +3,7 @@
 intall python pakage 
 
 pip install heapq
-
-          (or)
-          
+          (or)          
 https://pypi.python.org/pypi/heapq_max/0.21
       this link pakage file download and .zip file extract python (Lib) library location....
       
